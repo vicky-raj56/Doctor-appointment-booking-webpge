@@ -56,7 +56,7 @@ Create a .env file to store your credentials:
 
 ## 🌍 How it looks
 
-<details>
+<!-- <details>
 <summary><h3> 📸 - Demo Images </h3></summary>
 
 
@@ -84,4 +84,4 @@ Create a .env file to store your credentials:
 
 
 </details>
-
+ -->
