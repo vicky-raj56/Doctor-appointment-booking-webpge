@@ -92,7 +92,12 @@ const Navbar = () => {
           } md:hidden right-0 top-0 bottom-0 z-20 overflow-hidden bg-white transition-all`}
         >
           <div className="flex items-center justify-between px-5 py-6">
-            <img className="w-36" src={assets.logo} alt="" />
+            <div className="flex items-center shadow-red-600  ">
+              <img className="w-[45px]" src={assets.logo} alt="" />
+              <p className="text-blue-500 text-2xl cursor-pointer">
+                HealthCare
+              </p>
+            </div>
             <img
               className="w-7"
               onClick={() => setShowMenu(false)}

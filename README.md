@@ -11,7 +11,7 @@ Doctor Appointment website quite useful website. In this project it consists of 
 * `NODE JS`
 * `TAILWINDCSS`
 
-## 🛠 Dependecies
+## 🛠 Dependencies
 * `AXIOS`
 * `REACT ROUTER`
 * `REACT TOASTIFY`
